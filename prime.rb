@@ -1,6 +1,6 @@
 def prime?(integer)
   
-if integer.prime?
+if 
   puts true 
   
 else
