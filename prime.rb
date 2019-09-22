@@ -1,6 +1,12 @@
 def prime?(integer)
   
-  if 
+if integer.prime?
+  puts true 
+  
+else
+  puts false
+  
+end
   
 end
   
