@@ -1,12 +1,7 @@
 def prime?(integer)
-  
-if 
-  puts true 
-  
-else
-  puts false
-  
+
+require 'prime'
+
+Prime.prime?(integer)
+
 end
-  
-end
-  
